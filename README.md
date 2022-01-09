@@ -19,6 +19,4 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
 
-<img align="left" alt="Terminal" width="26px" src="https://www.google.com.hk/search?q=tensorflow+logo&tbm=isch&chips=q:tensorflow+logo,online_chips:icon&hl=zh-TW&sa=X&ved=2ahUKEwiW_aCh7aT1AhUTNH0KHZhuCJoQ4lYoBXoECAEQJA&biw=1440&bih=732#imgrc=HikDZmZNFWRvZM
-" />
-
+<img align="left" alt="Terminal" width="26px" src="https://seeklogo.com/vector-logo/394548/tensorflow" />
