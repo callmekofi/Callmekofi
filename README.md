@@ -19,4 +19,4 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
 
-<img align="left" alt="Terminal" width="26px" src="https://seeklogo.com/vector-logo/394548/tensorflow" />
+<img align="left" alt="Terminal" width="26px" src="file:///Users/jackson/Downloads/tensorflow-seeklogo.com.svg" />
