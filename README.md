@@ -32,4 +32,3 @@
 
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Callmekofi&show_icons=true&theme=radical)](https://github.com/Callmekofi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Callmekofi&layout=compact)](https://github.com/Callmekofi/github-readme-stats)
