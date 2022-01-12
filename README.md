@@ -10,7 +10,8 @@
 - 💬 Ask me about Data Science, Computer Vision, Machine Learning 
 - 📫 How to reach me: jacksonjay931@gmail.com
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- <br />
+
+
 
 ### Languages and Tools:
 
