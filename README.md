@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Machine learning Flood detection models
 - 💬 Ask me about Data Science, Computer Vision, Machine Learning 
 - 📫 How to reach me: jacksonjay931@gmail.com
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Machine learning  Open Source projects.
 
 
 
