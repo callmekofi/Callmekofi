@@ -17,7 +17,7 @@
 
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Callmekofi&show_icons=true&theme=radical)](https://github.com/Callmekofi/github-readme-stats)
 
-
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Callmekofi}&theme=vue
 
 ### Languages and Tools:
 
