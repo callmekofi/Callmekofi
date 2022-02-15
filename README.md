@@ -11,6 +11,7 @@
 - 📫 How to reach me: jacksonjay931@gmail.com
 - 🥅 2022 Goals: Contribute more to Machine learning / Data science  Open Source projects.
 
+img src=https://komarev.com/ghpvc/? username=Callmekofi/>
 
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Callmekofi&show_icons=true&theme=radical)](https://github.com/Callmekofi/github-readme-stats)
 
