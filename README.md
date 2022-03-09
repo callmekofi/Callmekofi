@@ -1,7 +1,7 @@
 ### Hi there, I'm Kofi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-## I'm a Husband, Data Scientist, Machine Learning Engineer and Researcher!!
+## I'm a Data Scientist, Machine Learning Engineer and a Researcher!!
  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
 
 - 🔭 I’m currently working on the application of machine learning in Satellite Imaging 
